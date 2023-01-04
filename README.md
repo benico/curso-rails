@@ -1,5 +1,5 @@
 # Projeto-rails:
-  O Projeto "Crypto-Wallet" foi desenvolvido durante o curso de Rails, com as funções:
+  O Projeto "Crypto-Wallet" foi desenvolvido durante o curso de Ruby on Rails, com as funções:
 *   Cadastrar tipos de mineração, com os seguintes atributos:
 *    - Nome;
 *    - Sigla.
