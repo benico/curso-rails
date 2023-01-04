@@ -1,24 +1,10 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Projeto-rails:
+  O Projeto "Crypto-Wallet" foi desenvolvido durante o curso de Rails, com as funções:
+*   Cadastrar tipos de mineração, com os seguintes atributos:
+*    - Nome;
+*    - Sigla.
+*   Cadastrar criptomoedas, com os seguintes atributos:
+*    - Nome;
+*    - Sigla;
+*    - URL da imagem da criptomoeda;
+*    - Associar a um tipo de mineração.
